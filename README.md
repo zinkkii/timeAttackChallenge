@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## TimeAttackChallenge
+
+일단 로컬 localhost:3000
+
+### Descript
+
+```
+
+@tanstack/react-query 실시간데이터 새로고침없이 재배치ㄱㄱ
+reduxtoolkit안쓸거고 zustand 써볼거임 리덕스 시러~~
+
+```
 
 ## Getting Started
 
@@ -10,8 +21,6 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
